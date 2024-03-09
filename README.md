@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Android app using Kotlin.<br>I'm looking to work on Android app development using Android studio.<br>I'm currently learning creative and responsive UI.<br>Ask me about Android app development.<br>And I'm also interested game development using Unreal Engine.<br><br>
+I'm currently working on Web Development using MERN.<br>I'm looking to work on Web development using MERN.<br>I'm currently learning creative and responsive UI.<br>Ask me about Web development.<br>And I'm also interested game development using Unreal Engine.<br><br>
 
 
 ## 🌐 Socials:
